@@ -22,14 +22,12 @@ Screenshots
 Here are some screenshots of the Weather_App in action:
 
 Desktop View:
-
- ![Desktop View]
+![Desktop View]
  (assets/desktop.png)
 
 
 Mobile View:
-![Mobile View]
-(assets/mobile.jpg)
+![Mobile View](assets/mobile.jpg)
 
 
 ## Installation
